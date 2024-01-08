@@ -1,0 +1,57 @@
+body{
+    font-family: 'Merriweather', serif;
+}
+.background{
+    background-image: url(resources/images/Banner\ Image.png);
+    width: 1320px;
+    height: 600px;
+    border-radius: 16px;
+}
+.banner-title{
+    color: #FFC300;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 95px;
+    margin-bottom: 0px;
+
+}
+.banner-itmes{
+    color: #FFC300;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px;
+    margin: 0px 350px;
+    
+}
+.offer{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+    margin-bottom: 48px;
+}
+.offer-title{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin: 0px;
+    
+}
+.cat{
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+}
+.offer-img{
+    width: 802.9px;
+    height: 500px;
+    margin: 40px 250px;
+}
